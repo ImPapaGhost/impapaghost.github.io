@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://impapaghost.github.io/sitemap.xml
